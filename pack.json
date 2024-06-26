@@ -1,0 +1,10 @@
+{
+  "name": bbno$ - sriracha,
+  "description": The Song bbno$ - sriracha,
+  "author": timothyberdine,
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
